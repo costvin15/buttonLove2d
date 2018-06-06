@@ -1,2 +1,2 @@
 # buttonLove2d
-A button library for love2d
+Button Library for [a http://www.love2d.com](LÖVE)
