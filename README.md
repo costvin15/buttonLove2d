@@ -5,7 +5,7 @@ Example
 =======
 ```
 function love.load()
-  helloWorldButton = button:new("Hello, World!", 250, 50, 100, 100, {255,25,255}, function() print("Hello, World!") end)
+  helloWorldButton = buttonLib:new("Hello, World!", 250, 50, 100, 100, {255,25,255}, function() print("Hello, World!") end)
 end
 
 function love.draw()
