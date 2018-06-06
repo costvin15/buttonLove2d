@@ -3,7 +3,7 @@ Button Library for a [LÖVE](http://www.love2d.com)
 
 Example
 =======
-``
+```
 function love.load()
   helloWorldButton = button:new("Hello, World!", 250, 50, 100, 100, {255,25,255}, function() print("Hello, World!") end)
 end
@@ -19,7 +19,7 @@ end
 function love.mousepressed(x,y,b,it)
   helloWorldButton.mousepressed(x,y,b)
 end
-``
+```
 Installation
 ============
 
