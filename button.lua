@@ -1,4 +1,3 @@
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 local buttonLove = {
     _VERSION = "buttonLove v1.0.0",
     _COMPATIBILITY = "Tested on Love 11.1.0",
