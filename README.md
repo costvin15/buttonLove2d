@@ -24,5 +24,5 @@ Installation
 ============
 
 ``
-buttonLib = require "libraries/button.lua"
+buttonLib = require "libraries/button"
 ``
